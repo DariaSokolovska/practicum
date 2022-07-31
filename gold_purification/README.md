@@ -7,7 +7,7 @@
 - Заказчику рекомендовано использовать модель DecisionTree для предсказания эффективности обогащения финального концентрата, и константную модель для предсказания эффективности обогащения чернового концентрата.
 
 #### Стек технологий:
-- Jupiter Noteebook, Python, Pandas, RandomForest, DecisionTree
+- Jupiter Noteebook, Python, Pandas, RandomForest, DecisionTree, Sklearn, Matplotlib, Scipy
 
 #### Статус проекта:
 - Завершен
