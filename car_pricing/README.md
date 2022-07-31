@@ -7,7 +7,7 @@
 - Заказчику рекомендовано использовать модель RandomForest для определения стоимости авто.
 
 #### Стек технологий:
-- Jupiter Noteebook, Python, Pandas, RandomForest, lightgbm, DecisionTree
+- Jupiter Noteebook, Python, Pandas, RandomForest, lightgbm, DecisionTree, Matplotlib, LGBMRegressor, Sklearn
 
 #### Статус проекта:
 - Завершен
