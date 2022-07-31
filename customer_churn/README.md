@@ -7,7 +7,7 @@
 - Заказчику рекомендовано использовать модель RandomForest для прогнозирования оттока.
 
 #### Стек технологий:
-- Jupiter Noteebook, Python, Pandas, RandomForest, DecisionTree
+- Jupiter Noteebook, Python, Pandas, RandomForest, DecisionTree, Sklearn, Matplotlib
 
 #### Статус проекта:
 - Завершен
